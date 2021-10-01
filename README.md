@@ -2,4 +2,4 @@
 Painting board
 
 
-studied as a nomadcoders
+- studied as a nomadcoders
